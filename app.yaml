@@ -1,0 +1,16 @@
+runtime: python313
+
+automatic_scaling:
+  max_instances: 0
+
+env_variables:
+  GOOGLE_PROJECT_ID: ""
+  SMTP_API_KEY: "SMTP_API_KEY"
+  TELEGRAM_BOT_API_KEY: "TELEGRAM_BOT_API_KEY"
+  TELEGRAM_CHAT_ID: ""
+  CRON_IP_ADDRESS: "0.1.0.2"
+  SMTP_SERVER: ""
+  SMTP_LOGIN: ""
+  MAIL_FROM: ""
+  MAIL_TO: ""
+  MESSAGE: "Parking nieczynny itunes.apple.com/app/id506795511 | https://www.pgenarodowy.pl/wydarzenia/kalendarium-wydarzen"
